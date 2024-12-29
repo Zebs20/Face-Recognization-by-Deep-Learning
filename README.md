@@ -82,4 +82,4 @@ This project is licensed under the [MIT License](LICENSE).
 - Gratitude to academic advisors and peers for their guidance and feedback.  
 
 ## Contact  
-For any inquiries or feedback, please reach out at [your-email@example.com].  
+For any inquiries or feedback, please reach out at [zebs.shaikh2@gmail.com].  
